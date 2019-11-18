@@ -1,0 +1,7 @@
+char se printirat bez nishto, no vuv funkciq det se podava pointer se vikat s &!!!
+---------------------------------------------------------------------------------------
+pointerite sushto kat gi vikame vuv funkciq se vikat s &
+---------------------------------------------------------------------------------------
+size_t se vika vuv funkciq sus sizeof(int/char) /v zavisimost ot kakv tip e promenlivcata koqtp podavame v inta/
+---------------------------------------------------------------------------------------
+void *a vuv funkciqta-------v maina e char a
