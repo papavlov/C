@@ -1,1 +1,1 @@
-Projects and applications developer on C
+Projects and applications developed on C
